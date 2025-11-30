@@ -32,7 +32,7 @@ This repository contains my AI Engineer (AIE) GPU experimentation project.
 - tests/      - Test scripts
 - scripts/    - CLI helpers and utilities
 - requirements.txt
-- Dockerfile (placeholder)
+- Dockerfile (container environment)
 
 ## Local Setup
 
