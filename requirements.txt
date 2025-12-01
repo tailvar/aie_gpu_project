@@ -1,6 +1,9 @@
 
 # Add Python dependencies here, for example:
-# torch
-# numpy
-# matplotlib
-# jupyterlab
+torch
+torchvision
+numpy
+matplotlib
+jupyterlab
+tqdm
+
